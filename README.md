@@ -17,46 +17,38 @@
 ## ⚙️ Skills
 
 ### 👨‍💻 Programming
-
-* Python (Basics, OOP)
+- Python (Basics, OOP)
 
 ### 🗄️ Database
-
-* SQL (Learning)
+- SQL (Beginner)
 
 ### 📊 Data Science
-
-* Pandas (Learning)
-* NumPy (Learning)
+- Pandas (Beginner)  
+- NumPy (Beginner)  
 
 ### 🌐 Backend
-
-* Flask (Learning)
+- Flask (Beginner)
 
 ### 📈 Tools
-
-* Power BI (Learning)
+- Power BI (Beginner)
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 User API (Flask)
+### 🔹 Student Placement Record System (Python, Pandas)
 
-* Built a simple REST API using Flask
-* Implemented basic CRUD operations
-
-### 🔹 Sales Data Analysis (Coming Soon)
-
-* Data cleaning & visualization using Python
+* Built a CLI-based application to manage student records  
+* Implemented CRUD operations (Add, Update, Delete, Search)  
+* Used Pandas for placement statistics and data display  
 
 ---
 
 ## 📚 Currently Learning
 
-* Machine Learning
-* Advanced SQL
-* Backend Development
+- Machine Learning (Supervised Learning Basics)  
+- Advanced SQL (Joins, Aggregations)  
+- Backend Development (Flask & REST APIs)  
 
 ---
 
