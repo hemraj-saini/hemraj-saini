@@ -1,62 +1,101 @@
 # Hi 👋, I'm Hemraj Saini
 
-🚀 Aspiring Data Scientist | Python | Learning SQL & ML
+🚀 Aspiring Data Scientist | Machine Learning | Data Analytics | Python
 📍 India
 
 ---
 
 ## 🧠 About Me
 
-* 🔭 Currently learning **SQL, Machine Learning & Backend (Flask)**
-* 🌱 Focused on building **real-world projects**
-* 💡 Interested in **Data Science + API Development**
-* 🎯 Goal: Become a **Data Scientist / ML Engineer**
+* 🎓 Passionate about Data Science, Machine Learning, and Analytics
+* 📊 Building end-to-end ML projects from data cleaning to deployment
+* 🤖 Interested in Predictive Modeling, Data Visualization, and MLOps
+* 🌱 Currently learning Advanced Machine Learning and Deep Learning
+* 🎯 Goal: Become a Data Scientist / Machine Learning Engineer
 
 ---
 
-## ⚙️ Skills
+## ⚙️ Technical Skills
 
 ### 👨‍💻 Programming
-- Python (Basics, OOP)
+
+* Python
+* Object-Oriented Programming (OOP)
+
+### 📊 Data Analysis
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+### 🤖 Machine Learning
+
+* Scikit-Learn
+* Regression Models
+* Classification Models
+* Feature Engineering
+* Hyperparameter Tuning
+* Cross Validation
+* Model Evaluation
 
 ### 🗄️ Database
-- SQL (Beginner)
 
-### 📊 Data Science
-- Pandas (Beginner)  
-- NumPy (Beginner)  
+* SQL
+* Data Querying & Analysis
 
-### 🌐 Backend
-- Flask (Beginner)
+### 🌐 Deployment & Tools
 
-### 📈 Tools
-- Power BI (Beginner)
+* Streamlit
+* Git & GitHub
+* Jupyter Notebook
+* VS Code
+
+### 📈 Visualization
+
+* Power BI
+* Matplotlib
+* Streamlit Dashboards
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔹 Student Placement Record System (Python, Pandas)
+### 🏠 House Rent Prediction System
 
-* Built a CLI-based application to manage student records  
-* Implemented CRUD operations (Add, Update, Delete, Search)  
-* Used Pandas for placement statistics and data display  
+* Built an end-to-end Machine Learning application using Python and Streamlit
+* Performed EDA, Data Cleaning, Feature Engineering, and Model Selection
+* Trained multiple ML models and selected GradientBoostingRegressor
+* Achieved R² Score of 0.83 using Cross Validation
+* Deployed an interactive web application using Streamlit
 
 ---
 
 ## 📚 Currently Learning
 
-- Machine Learning (Supervised Learning Basics)  
-- Advanced SQL (Joins, Aggregations)  
-- Backend Development (Flask & REST APIs)  
+* Advanced Machine Learning
+* Deep Learning Fundamentals
+* Model Deployment & MLOps
+* Data Structures & Algorithms
+* Advanced SQL
 
 ---
 
-## 📫 Contact Me
+## 📈 GitHub Stats
 
-* 📧 Email: hrdynordx@gmail.com
-* 🔗 GitHub: https://github.com/hemraj-saini
+* Machine Learning Projects
+* Data Analysis Projects
+* Streamlit Applications
+* Continuous Learning & Open Source Contributions
 
 ---
 
-⭐ *"Learning step by step and building something every day"*
+## 📫 Connect With Me
+
+📧 Email: [hrdynordx@gmail.com](mailto:hrdynordx@gmail.com)
+
+🔗 GitHub: https://github.com/hemraj-saini
+
+---
+
+⭐ *"Turning data into insights and ideas into real-world solutions."*
