@@ -1,101 +1,86 @@
-# Hi 👋, I'm Hemraj Saini
+# Hi, I'm Hemraj Saini
 
-🚀 Aspiring Data Scientist | Machine Learning | Data Analytics | Python
-📍 India
+**Data Scientist | Machine Learning | Python | SQL**
 
----
+I am a passionate Data Science professional with hands-on experience in building end-to-end Machine Learning solutions for regression, classification, NLP, and forecasting. I enjoy transforming raw data into meaningful insights by applying data preprocessing, feature engineering, model development, and deployment techniques.
 
-## 🧠 About Me
+## About Me
 
-* 🎓 Passionate about Data Science, Machine Learning, and Analytics
-* 📊 Building end-to-end ML projects from data cleaning to deployment
-* 🤖 Interested in Predictive Modeling, Data Visualization, and MLOps
-* 🌱 Currently learning Advanced Machine Learning and Deep Learning
-* 🎯 Goal: Become a Data Scientist / Machine Learning Engineer
+* 🎓 Bachelor of Computer Applications (BCA)
+* 💻 Building end-to-end Machine Learning and Data Analytics projects
+* 📊 Experienced in data preprocessing, feature engineering, model evaluation, and deployment
+* 🚀 Interested in Machine Learning, Predictive Analytics, NLP, and MLOps
+* 🌱 Currently learning Deep Learning, Transformers, and MLOps
 
----
+## Technical Skills
 
-## ⚙️ Technical Skills
-
-### 👨‍💻 Programming
+**Programming Languages**
 
 * Python
-* Object-Oriented Programming (OOP)
+* SQL
 
-### 📊 Data Analysis
+**Machine Learning**
+
+* Scikit-learn
+* XGBoost
+* CatBoost
+* LightGBM
+* Regression
+* Classification
+* Clustering
+* Time Series Forecasting
+* Natural Language Processing (NLP)
+
+**Data Analysis**
 
 * Pandas
 * NumPy
 * Matplotlib
 * Seaborn
 
-### 🤖 Machine Learning
+**Business Intelligence**
 
-* Scikit-Learn
-* Regression Models
-* Classification Models
-* Feature Engineering
-* Hyperparameter Tuning
-* Cross Validation
-* Model Evaluation
+* Power BI
 
-### 🗄️ Database
-
-* SQL
-* Data Querying & Analysis
-
-### 🌐 Deployment & Tools
+**Deployment & Tools**
 
 * Streamlit
-* Git & GitHub
+* Git
+* GitHub
 * Jupyter Notebook
 * VS Code
 
-### 📈 Visualization
+## Featured Projects
 
-* Power BI
-* Matplotlib
-* Streamlit Dashboards
+### Invoice Intelligence
 
----
+* Developed an end-to-end invoice analytics solution for freight cost prediction and invoice flagging.
+* Built Machine Learning models using XGBoost and deployed an interactive Streamlit application.
 
-## 🚀 Featured Projects
+### Customer Churn Prediction
 
-### 🏠 House Rent Prediction System
+* Built a classification model to identify customers at risk of churn using feature engineering, SMOTE, and multiple Machine Learning algorithms.
 
-* Built an end-to-end Machine Learning application using Python and Streamlit
-* Performed EDA, Data Cleaning, Feature Engineering, and Model Selection
-* Trained multiple ML models and selected GradientBoostingRegressor
-* Achieved R² Score of 0.83 using Cross Validation
-* Deployed an interactive web application using Streamlit
+### Movie Review Sentiment Analysis
 
----
+* Developed an NLP application using TF-IDF and Machine Learning models for sentiment classification with a Streamlit interface.
 
-## 📚 Currently Learning
+## Currently Learning
 
 * Advanced Machine Learning
-* Deep Learning Fundamentals
-* Model Deployment & MLOps
-* Data Structures & Algorithms
+* Deep Learning
+* Transformers
+* MLOps
 * Advanced SQL
 
----
+## Connect
 
-## 📈 GitHub Stats
+📧 **Email:** [hemrajsaini.dev@gmail.com](mailto:hemrajsaini.dev@gmail.com)
 
-* Machine Learning Projects
-* Data Analysis Projects
-* Streamlit Applications
-* Continuous Learning & Open Source Contributions
+🔗 **LinkedIn:** https://www.linkedin.com/in/hemraj-saini-ds
 
----
-
-## 📫 Connect With Me
-
-📧 Email: [hrdynordx@gmail.com](mailto:hrdynordx@gmail.com)
-
-🔗 GitHub: https://github.com/hemraj-saini
+💻 **GitHub:** https://github.com/hemraj-saini
 
 ---
 
-⭐ *"Turning data into insights and ideas into real-world solutions."*
+*"Turning data into intelligent solutions through Machine Learning and Analytics."*
